@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <Title>De'ja Portfolio</title>
+    <link href='style.css' rel='stylesheet'>
+</head>
+<nav>
+    <a href="#home">Home</a>
+    <a href="#AboutMe">About Me</a>
+    <a href="#mywork">My Work</a>
+    <a href="#contact">Contact</a>
+</nav>
+<body>
+    <img src="https://i.imgur.com/UfcyCnL.jpg" alt="Deja Duke">
+ <div id="home" class=".home">
+   </div>
+<div id="about me" class=".aboutme">
+     <p> Hi! currently in the process of becoming a great web developer, 
+       Since the summer of 2022. Creating a web-page is fun and challanging for me!
+        I strive off work that includes challenges or oppurtunity to learn something new!
+        I would love to create your very own vision into a web page!
+     </p>
+</div>
+<div id="work" class=".work">
+ <p> Check out my Linked In Page<a href="https://www.linkedin.com/in/deja-duke-717897251/">Here</a><br>
+    Check out my GitHub Page<a href="https://github.com/dejasimone">Here</a>
+  </p>
+</div>
+<div id="contact" class=".contact"
+<p> You can contact me via email , dejaduke54@gmail.com
+</p>
+    <form action="submission.html" method="POST">
+        <h1>Contact me!</h1>
+        <section class="name">
+            <label for="name">Your name</label>
+            <input type="type" name="name" id="name"
+        </section>
+    <section class="email">
+        <label for="email">Your email</label>
+        <input type="type" name="email address" id="email address">
+   </section>
+    <section class="message">
+        <label for="message">Your message</label>
+        <input type="type" name="message" id="message"
+    </section>
+    <section class="submission">
+        <input type="submit" value="Send Email">
+        </section>
+    </form>
+</div>
+<footer align="center">
+    <p>By: Deja Duke</p>
+    </footer>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
