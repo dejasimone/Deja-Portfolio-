@@ -1,5 +1,41 @@
 h1{
-    font-family:'Courier New', Courier, monospace;
+    border: 15px dotted green;
     font-size: 20px;
+    padding: 15px 
 }
+.work{
+    border: solid green;
+    padding: 5px 20px;
+    margin: 0 auto;
+    background-color: hotpink;
+
+}
+.contact{
+    border: dotted green;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+.s2{
+    border: 5px solid blue;
+    display: inline-block;
+    background-color: purple;
+    padding: 5px 10px;
+    opacity: .7;
+}
+.aboutme{
+    Font-size: 20px;
+    Font-family: 'Times New Roman',serif;
+    
+}
+p{
+    margin: 0 auto;
+    font-family: Georgia;
+    
+}
+body{
+    background-color: pink;
+    color: black;
+}
+
 
